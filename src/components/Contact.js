@@ -86,7 +86,7 @@ class Contact extends Component {
                                 <a href="#"><span className="fui-phone"></span>+91 80963 80962</a><br />
                                 <a href="#"><span className="fui-mail"></span>hr@vanes.in</a>
                             </div>
-                            <h6>Corporate HQ</h6>
+                            <h6>Corporate Head Quaters</h6>
                             <p>Vanes is located near to heart of technology in Hyderabad.</p>
                             <p>Vanes Industries</p>
                             <p> Door No: 2-91/5&6/MPTP/3F/B-2<br />
